@@ -62,10 +62,11 @@ a {
 /* common css end */
 header {
       background: #FFF8F3;
-      background-image: url(/IMGS/header_bg.png);
+      background-image: url(/IMGS/header_bg.png), url(/IMGS/developer.png);
       background-repeat: no-repeat;
-      background-position: bottom right;
+      background-position: bottom right, left;
       padding-bottom: 50px;
+
 }
 
 header .row {
